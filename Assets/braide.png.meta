@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: 22636eb7651fdc141b664861aba1293d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1756562715719799739
+    second: braide_0
+  - first:
+      213: 4610448146208833712
+    second: braide_1
+  - first:
+      213: -5718072791300132314
+    second: braide_2
+  - first:
+      213: -1807010891281064861
+    second: braide_3
+  - first:
+      213: 7669530654880228328
+    second: braide_4
+  - first:
+      213: -2870177112897847583
+    second: braide_5
+  - first:
+      213: -1366446017539752895
+    second: braide_6
+  - first:
+      213: -5366868995494225038
+    second: braide_7
+  - first:
+      213: -2453941002023643514
+    second: braide_8
+  - first:
+      213: -7790128824746079222
+    second: braide_9
+  - first:
+      213: -1292768135455128869
+    second: braide_10
+  - first:
+      213: 8512360555565535595
+    second: braide_11
+  - first:
+      213: 2101613507129273174
+    second: braide_12
+  - first:
+      213: -6550469354741411693
+    second: braide_13
+  - first:
+      213: -6296071190992074910
+    second: braide_14
+  - first:
+      213: -9053374812806478193
+    second: braide_15
+  - first:
+      213: 3689286788299658227
+    second: braide_16
+  - first:
+      213: 2482182308686934695
+    second: braide_17
+  - first:
+      213: 8323691345745602151
+    second: braide_18
+  - first:
+      213: 6181005579555985114
+    second: braide_19
+  - first:
+      213: 8423321123983156841
+    second: braide_20
+  - first:
+      213: -1192395419725542103
+    second: braide_21
+  - first:
+      213: -3755455408183966277
+    second: braide_22
+  - first:
+      213: -230556501865721038
+    second: braide_23
+  - first:
+      213: -8614590594235690039
+    second: braide_24
+  - first:
+      213: 8383564189437429250
+    second: braide_25
+  - first:
+      213: 6396660955342143244
+    second: braide_26
+  - first:
+      213: -1585718132555157931
+    second: braide_27
+  - first:
+      213: -6530334118567742913
+    second: braide_28
+  - first:
+      213: 2981222519712174389
+    second: braide_29
+  - first:
+      213: 3513907119722176638
+    second: braide_30
+  - first:
+      213: 4993435007369670910
+    second: braide_31
+  - first:
+      213: 8609604901944593921
+    second: braide_32
+  - first:
+      213: -7552551527281898221
+    second: braide_33
+  - first:
+      213: -4050755745726843241
+    second: braide_34
+  - first:
+      213: -5195685936574679904
+    second: braide_35
+  - first:
+      213: -4511474685065008442
+    second: braide_36
+  - first:
+      213: -810279219688729915
+    second: braide_37
+  - first:
+      213: -8253919466796118745
+    second: braide_38
+  - first:
+      213: 7288020254028424625
+    second: braide_39
+  - first:
+      213: -8868060670232107537
+    second: braide_40
+  - first:
+      213: -5101274467655556744
+    second: braide_41
+  - first:
+      213: -2342105595188936704
+    second: braide_42
+  - first:
+      213: 1199315737995142709
+    second: braide_43
+  - first:
+      213: -4875760199472621882
+    second: braide_44
+  - first:
+      213: -232713352364440200
+    second: braide_45
+  - first:
+      213: 7347337567890610428
+    second: braide_46
+  - first:
+      213: -7212802126275202380
+    second: braide_47
+  - first:
+      213: 6409305638265567304
+    second: braide_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: braide_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 553
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39c28bb70906810800000000000000
+      internalID: 1756562715719799739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 553
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c22a692a9bff30800000000000000
+      internalID: 4610448146208833712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 553
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622baba871355a0b0800000000000000
+      internalID: -5718072791300132314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 552
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1ee71b253ce6e0800000000000000
+      internalID: -1807010891281064861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 552
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ea16ee75af6a60800000000000000
+      internalID: 7669530654880228328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 552
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee74476f151b28d0800000000000000
+      internalID: -2870177112897847583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 552
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbbc73698690de0800000000000000
+      internalID: -1366446017539752895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 552
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b528f551d0585b0800000000000000
+      internalID: -5366868995494225038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_8
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 551
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865d9209a9d1fdd0800000000000000
+      internalID: -2453941002023643514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 551
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c8a769b17e3e390800000000000000
+      internalID: -7790128824746079222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 551
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c04dea3a2f0ee0800000000000000
+      internalID: -1292768135455128869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_11
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 551
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d78a23daf12670800000000000000
+      internalID: 8512360555565535595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b6a93995e6a2d10800000000000000
+      internalID: 2101613507129273174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 411
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905e86e3de0815a0800000000000000
+      internalID: -6550469354741411693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 411
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267c85c1c9cdf98a0800000000000000
+      internalID: -6296071190992074910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 411
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8683381393fb5280800000000000000
+      internalID: -9053374812806478193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 411
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3942b89caf23330800000000000000
+      internalID: 3689286788299658227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 411
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23b0998ab727220800000000000000
+      internalID: 2482182308686934695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 412
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e82b9d21b38370800000000000000
+      internalID: 8323691345745602151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 412
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6542483d757c550800000000000000
+      internalID: 6181005579555985114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 412
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666f000fe5a5e470800000000000000
+      internalID: 8423321123983156841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 412
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc47feea2c37fe0800000000000000
+      internalID: -1192395419725542103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_22
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 420
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb500691431f1ebc0800000000000000
+      internalID: -3755455408183966277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23313a54516ecccf0800000000000000
+      internalID: -230556501865721038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 276
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c319212f73d27880800000000000000
+      internalID: -8614590594235690039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 276
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068a175637685470800000000000000
+      internalID: 8383564189437429250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 274
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f77c77f3185c850800000000000000
+      internalID: 6396660955342143244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 275
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e672b82c56ef9e0800000000000000
+      internalID: -1585718132555157931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_28
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 276
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f726e7b79f55a0800000000000000
+      internalID: -6530334118567742913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 274
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d6d3261e6f5920800000000000000
+      internalID: 2981222519712174389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_30
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 274
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a1cc68e7e3c030800000000000000
+      internalID: 3513907119722176638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_31
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 273
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f44fceae3c4540800000000000000
+      internalID: 4993435007369670910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8edcea067b7770800000000000000
+      internalID: 8609604901944593921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 138
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d478ca662ff2790800000000000000
+      internalID: -7552551527281898221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 137
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79634107c13d8c7c0800000000000000
+      internalID: -4050755745726843241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 141
+        width: 108
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a439f92b2735e7b0800000000000000
+      internalID: -5195685936574679904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 145
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca688f3da50461c0800000000000000
+      internalID: -4511474685065008442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_37
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 144
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2929db75f41c4f0800000000000000
+      internalID: -810279219688729915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 143
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8fe0e9ff247d80800000000000000
+      internalID: -8253919466796118745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_39
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 142
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56735becf342560800000000000000
+      internalID: 7288020254028424625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_40
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 141
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e3303ec15ee480800000000000000
+      internalID: -8868060670232107537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ee9d36e1a439b0800000000000000
+      internalID: -5101274467655556744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000f44ce5b2f7fd0800000000000000
+      internalID: -2342105595188936704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366cb83f43d4a010800000000000000
+      internalID: 1199315737995142709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 98
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c652747ee1d55cb0800000000000000
+      internalID: -4875760199472621882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c3d1607c35ccf0800000000000000
+      internalID: -232713352364440200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89003179cf6f560800000000000000
+      internalID: 7347337567890610428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23f246eaaf6eb90800000000000000
+      internalID: -7212802126275202380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braide_48
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483ab1258d62f850800000000000000
+      internalID: 6409305638265567304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
